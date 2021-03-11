@@ -1,4 +1,6 @@
 //Take reference from https://www.youtube.com/watch?v=IkOVe40Sy0U
+//Deploy code using vercel https://next-ssr-nine.vercel.app/
+
 import Fetch from "isomorphic-unfetch";
 import Layout from "../components/Layout";
 import Prices from "../components/Prices";
